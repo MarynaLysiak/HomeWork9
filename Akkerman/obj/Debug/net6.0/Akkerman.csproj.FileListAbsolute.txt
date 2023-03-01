@@ -1,0 +1,15 @@
+/Users/marynanikonorova/Documents/Тестировщик_Обучение/C#/HomeWork9/Akkerman/bin/Debug/net6.0/Akkerman
+/Users/marynanikonorova/Documents/Тестировщик_Обучение/C#/HomeWork9/Akkerman/bin/Debug/net6.0/Akkerman.deps.json
+/Users/marynanikonorova/Documents/Тестировщик_Обучение/C#/HomeWork9/Akkerman/bin/Debug/net6.0/Akkerman.runtimeconfig.json
+/Users/marynanikonorova/Documents/Тестировщик_Обучение/C#/HomeWork9/Akkerman/bin/Debug/net6.0/Akkerman.dll
+/Users/marynanikonorova/Documents/Тестировщик_Обучение/C#/HomeWork9/Akkerman/bin/Debug/net6.0/Akkerman.pdb
+/Users/marynanikonorova/Documents/Тестировщик_Обучение/C#/HomeWork9/Akkerman/obj/Debug/net6.0/Akkerman.csproj.AssemblyReference.cache
+/Users/marynanikonorova/Documents/Тестировщик_Обучение/C#/HomeWork9/Akkerman/obj/Debug/net6.0/Akkerman.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marynanikonorova/Documents/Тестировщик_Обучение/C#/HomeWork9/Akkerman/obj/Debug/net6.0/Akkerman.AssemblyInfoInputs.cache
+/Users/marynanikonorova/Documents/Тестировщик_Обучение/C#/HomeWork9/Akkerman/obj/Debug/net6.0/Akkerman.AssemblyInfo.cs
+/Users/marynanikonorova/Documents/Тестировщик_Обучение/C#/HomeWork9/Akkerman/obj/Debug/net6.0/Akkerman.csproj.CoreCompileInputs.cache
+/Users/marynanikonorova/Documents/Тестировщик_Обучение/C#/HomeWork9/Akkerman/obj/Debug/net6.0/Akkerman.dll
+/Users/marynanikonorova/Documents/Тестировщик_Обучение/C#/HomeWork9/Akkerman/obj/Debug/net6.0/refint/Akkerman.dll
+/Users/marynanikonorova/Documents/Тестировщик_Обучение/C#/HomeWork9/Akkerman/obj/Debug/net6.0/Akkerman.pdb
+/Users/marynanikonorova/Documents/Тестировщик_Обучение/C#/HomeWork9/Akkerman/obj/Debug/net6.0/Akkerman.genruntimeconfig.cache
+/Users/marynanikonorova/Documents/Тестировщик_Обучение/C#/HomeWork9/Akkerman/obj/Debug/net6.0/ref/Akkerman.dll
